@@ -69,10 +69,3 @@ yarn install
 # executar o projeto
 yarn start
 ```
-
-# Autor
-
-Eric Hideki Miyahara
-
-https://www.linkedin.com/in/eric-miyahara-2b8716247/
-
